@@ -2,7 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Activism Website (CodePath)](https://github.com/franRov13/ActivismWebPage.git)
+- <b>Websites</b>
+
+  - [Activism Website (CodePath)](https://github.com/franRov13/ActivismWebPage.git)
+
+- <b>Games</b>
+
+  - [Activism Website (CodePath)](https://github.com/franRov13/ActivismWebPage.git)
+
+
 
 
 <h2>📄 Certifications:</h2>
