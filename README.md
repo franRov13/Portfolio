@@ -8,7 +8,7 @@
 
 - <b>Games</b>
 
-  - [Activism Website (CodePath)](https://github.com/franRov13/ActivismWebPage.git)
+
 
 
 
