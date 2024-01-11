@@ -4,7 +4,7 @@
 
 - <b>Websites</b>
 
-  - [Activism Website (CodePath)](https://github.com/franRov13/ActivismWebPage.git)
+  - [Activism Website](https://github.com/franRov13/ActivismWebPage.git)
 
 - <b>Games</b>
 
