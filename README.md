@@ -8,6 +8,9 @@
 
 - <b>Games</b>
 
+  - [AudioVisualizer](https://github.com/franRov13/AudioVisualizer)
+  - [Diner Dash](https://github.com/franRov13/Diner_Dash-)
+
 
 
 
