@@ -1,10 +1,10 @@
 <h1>Hi, I'm Francisco! </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
 - <b>Websites</b>
 
-  - [Activism Website](https://github.com/franRov13/ActivismWebPage.git)
+  - [Activism ~ CodePath](https://github.com/franRov13/ActivismWebPage.git)
 
 - <b>Games</b>
 
@@ -12,14 +12,18 @@
   - [Diner Dash](https://github.com/franRov13/Diner_Dash-)
   - [Slithery Snake](https://github.com/franRov13/SlitherySnake)
 
+- <b>NES Games</b>
+
 
 
 
 
 
 <h2>📄 Certifications:</h2>
-
-
+  
+  - <b>CodePath Intro to Web Development</b>
+  - <b>Google Cybersecurity Professional</b>
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="FranciscoRovira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
