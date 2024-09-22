@@ -23,7 +23,6 @@
 <h2>📄 Certifications:</h2>
   
   - <b>CodePath Intro to Web Development</b>
-  - <b>Google Cybersecurity Professional</b>
   
 <h2> 🤳 Connect with me:</h2>
 
